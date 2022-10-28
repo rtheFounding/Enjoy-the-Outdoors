@@ -11,7 +11,7 @@ Website that specializes in finding national parks, and mountains to climb. Usin
 <img src="images1/capstone8.img.png">
 
 
-<img src="images1/code.img.png">
+<img src="images1/code.png">
 Working on this function was honestly the best part of this project, looking up on how to implment the code together
 Creating a function in JavaScript that created a bootstrap5 card. Connecting the lines from HTML => JavaScript and appending it to HTML
 was something that did a bring a smile to my face.
