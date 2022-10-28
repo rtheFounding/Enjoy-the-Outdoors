@@ -1,6 +1,6 @@
 .image {
     width: 100%;
-    height: 400px;
+    height: 300px;
     object-fit: cover;
 }
 .card-img-top {
@@ -9,7 +9,7 @@
 .card {
     width: 350px;
     margin: 15px;
-    height: 25vw;
+    height: 31vw;
     display: inline-flex;
     box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.5);
 }
