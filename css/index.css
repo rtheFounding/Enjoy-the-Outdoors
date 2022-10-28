@@ -7,10 +7,26 @@
 h5 {
     text-align: center;
     margin: 4px;
+    font-size: 40px;
 }
 
 #textP {
     margin: 10px;
     text-align: center;
-    font-size: large;
+    font-size: 25px;
+}
+
+ul {
+    text-align: left;
+    margin: auto;
+    width: fit-content;
+}
+#footer {
+    min-width: 100%;
+    text-align: center;
+    padding-left: 3px;
+    padding-right: 1px;
+    padding-top: 60px;
+    margin-bottom: 10px;
+    height: 2.5rem;
 }
